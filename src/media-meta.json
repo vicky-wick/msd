@@ -1,0 +1,154 @@
+{
+ "food-paneer": {
+  "w": 700,
+  "h": 525
+ },
+ "food-dessert": {
+  "w": 700,
+  "h": 525
+ },
+ "food-mocktail": {
+  "w": 700,
+  "h": 467
+ },
+ "food-burger": {
+  "w": 700,
+  "h": 467
+ },
+ "food-kebab": {
+  "w": 700,
+  "h": 467
+ },
+ "food-shawarma": {
+  "w": 700,
+  "h": 467
+ },
+ "food-biryani": {
+  "w": 700,
+  "h": 467
+ },
+ "bridal-1": {
+  "w": 700,
+  "h": 1050
+ },
+ "bridal-2": {
+  "w": 700,
+  "h": 1050
+ },
+ "bridal-3": {
+  "w": 700,
+  "h": 1050
+ },
+ "prewed-1": {
+  "w": 700,
+  "h": 933
+ },
+ "prewed-2": {
+  "w": 700,
+  "h": 933
+ },
+ "prewed-3": {
+  "w": 700,
+  "h": 933
+ },
+ "event-dj-1": {
+  "w": 700,
+  "h": 1050
+ },
+ "event-dj-2": {
+  "w": 700,
+  "h": 1050
+ },
+ "event-singer-1": {
+  "w": 700,
+  "h": 1050
+ },
+ "event-singer-2": {
+  "w": 700,
+  "h": 1050
+ },
+ "event-stage": {
+  "w": 700,
+  "h": 1050
+ },
+ "event-glow": {
+  "w": 700,
+  "h": 1050
+ },
+ "event-crowd": {
+  "w": 700,
+  "h": 1050
+ },
+ "event-haus": {
+  "w": 700,
+  "h": 1050
+ },
+ "pageant-1": {
+  "w": 700,
+  "h": 1051
+ },
+ "pageant-2": {
+  "w": 700,
+  "h": 1244
+ },
+ "model-1": {
+  "w": 700,
+  "h": 1244
+ },
+ "model-2": {
+  "w": 700,
+  "h": 1244
+ },
+ "model-3": {
+  "w": 700,
+  "h": 1244
+ },
+ "model-concert-1": {
+  "w": 700,
+  "h": 1049
+ },
+ "model-concert-2": {
+  "w": 700,
+  "h": 1049
+ },
+ "silver-clutch": {
+  "w": 700,
+  "h": 467
+ },
+ "silver-vase": {
+  "w": 700,
+  "h": 1050
+ },
+ "silver-peacocks": {
+  "w": 700,
+  "h": 1050
+ },
+ "silver-horse": {
+  "w": 700,
+  "h": 1050
+ },
+ "silver-temple": {
+  "w": 700,
+  "h": 1050
+ },
+ "silver-swans": {
+  "w": 700,
+  "h": 1050
+ },
+ "silver-peacock-lamp": {
+  "w": 700,
+  "h": 1050
+ },
+ "silver-durga": {
+  "w": 700,
+  "h": 1050
+ },
+ "silver-peacock": {
+  "w": 700,
+  "h": 467
+ },
+ "silver-shivling": {
+  "w": 700,
+  "h": 467
+ }
+}
